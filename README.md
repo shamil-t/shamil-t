@@ -1,7 +1,8 @@
 ### Hi I'm SHAMIL
 
-- 🔭 I’m currenlty a student at Institute Of University College of Engineering Thodupuzha,Kerala.
-- 🌱 I’m currently learning Full Developing with Django.
+- 🔭 I’m currenlty an Intern at Exposys Data Labs.
+- 🌱 I’m currently Working on Full Developing with Django.
+- 💻 Currently Developing a Website to detect DDOS attack using entropy computing
 - 💬 I stand as energetic and highly motivated for my work with outstanding analytical & planning skills.
 - 📫 A positive attitude which can really make dreams come true – it did for me. I have dream that I can’t let go of, trust my instincts and pursue it.
 - 💻 I am Intrested in Apllication Development,Cyber Security and Block Chain Development
