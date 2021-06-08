@@ -14,7 +14,7 @@
 <a href=https://www.linkedin.com/in/shamil-t target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 <img />
-<img src="https://github-readme-stats.vercel.app/api?username=shamil-t&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=fff&bg_color=1a1919">
+<img src="https://github-readme-stats.vercel.app/api?username=shamil-t&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=fff&bg_color=000
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=8)](https://github.com/shamil-t/README.md)
 
