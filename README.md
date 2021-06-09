@@ -17,7 +17,7 @@
 ## My Github Stats :
 
 <img />
-<img src="https://github-readme-stats.vercel.app/api?username=shamil-t&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=fff&bg_color=000" />
+<img src="https://github-readme-stats.vercel.app/api?username=shamil-t&&show_icons=true&title_color=#014f52&icon_color=bb2acf&text_color=68a685&bg_color=021836" />
 
 ## Most used Language
 
