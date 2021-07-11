@@ -22,4 +22,3 @@
 ## Most used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=8)](https://github.com/shamil-t/README.md)
-
