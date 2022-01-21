@@ -18,7 +18,7 @@
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shamil-t&repo=ehr-blockchain)](https://github.com/shamil-t/README.md)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shamil-t&repo=ehr-blockchain)](https://github.com/shamil-t/ehr-blockchain)
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&layout=compact)](https://github.com/shamil-t/README.md)
