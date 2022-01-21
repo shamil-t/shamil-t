@@ -11,12 +11,18 @@
 <a href=https://www.linkedin.com/in/shamil-t target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
-## My Github Stats :
+## Stats :
 
-<img />
-[(https://github-readme-stats.vercel.app/api?username=shamil-t]
-<img src="https://github-readme-stats.vercel.app/api?username=shamil-t&&show_icons=true&title_color=#014f52&icon_color=bb2acf&text_color=68a685&bg_color=021836" />
 
-## Most used Language
+![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=8)](https://github.com/shamil-t/README.md)
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shamil-t&repo=ehr-blockchain)](https://github.com/shamil-t/README.md)
+
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&layout=compact)](https://github.com/shamil-t/README.md)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=5)](https://github.com/shamil-t/README.md) -->
+
+##
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil-t)](https://github.com/shamil-t/README.md)
