@@ -25,4 +25,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=5)](https://github.com/shamil-t/README.md) -->
 
 ##
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil)](https://github.com/shamil-t/README.md)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://github.com/shamil-t/README.md)
