@@ -7,7 +7,9 @@
 ## Connect with me :
 
 <p align="left">
-<a href=https://www.linkedin.com/in/shamil-t target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/shamil-t target="blank">
+  <img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
+  </a>
 </p>
 
 ## Stats :
