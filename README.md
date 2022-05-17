@@ -14,8 +14,8 @@
 
 ## Stats :
 
-
 ![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical)
+<!-- ![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical) -->
 
 ##
 
