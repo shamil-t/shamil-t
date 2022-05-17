@@ -14,16 +14,16 @@
 
 ## Stats :
 
-![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical)
+<!-- ![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical) -->
 <!-- ![Shamil-t's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-t&show_icons=true&theme=radical) -->
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shamil-t&repo=ehr-blockchain)](https://github.com/shamil-t/ehr-blockchain)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shamil-t&repo=ehr-blockchain)](https://github.com/shamil-t/ehr-blockchain) -->
 
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&layout=compact)](https://github.com/shamil-t/README.md)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&layout=compact)](https://github.com/shamil-t/README.md) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=5)](https://github.com/shamil-t/README.md) -->
 
 ##
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://wakatime.com/@shamil)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://wakatime.com/@shamil) -->
