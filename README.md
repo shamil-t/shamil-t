@@ -4,13 +4,13 @@
 - 💻 Intrested in Apllication Development, Cyber Security and Block Chain Development
 - ⚡ Always open to learn and explore technologies. 
 
-## Connect with me :
+<!-- ## Connect with me : -->
 
-<p align="left">
+<!-- <p align="left">
 <a href=https://www.linkedin.com/in/shamil-t target="blank">
   <img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
   </a>
-</p>
+</p> -->
 
 ## Stats :
 
