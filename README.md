@@ -25,5 +25,9 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&layout=compact)](https://github.com/shamil-t/README.md) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamil-t&langs_count=5)](https://github.com/shamil-t/README.md)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ##
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://wakatime.com/@shamil)
