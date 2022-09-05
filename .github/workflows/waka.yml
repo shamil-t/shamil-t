@@ -6,7 +6,7 @@ on:
 
     # Runs every 4 hours
 
-    - cron: '0 */1 * * *'
+    - cron: "0 */4 * * *"
 
   workflow_dispatch:
 
@@ -25,6 +25,10 @@ jobs:
         with:
 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Automatic github token
+          GITHUB_TOKEN: ${{ github.token }}
+          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
+          BRANCH: "master"
 
           SHOW_OS: "True"
 
