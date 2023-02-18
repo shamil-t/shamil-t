@@ -30,4 +30,4 @@
 <!--END_SECTION:waka-->
 
 ##
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://wakatime.com/@shamil)-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shamil&v=2)](https://wakatime.com/@shamil)
