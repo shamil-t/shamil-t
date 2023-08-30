@@ -1,8 +1,8 @@
 ### Hi I'm SHAMIL
 
-- 📫 A positive attitude which can really make dreams come true – it did for me. I have dream that I can’t let go of, trust my instincts and pursue it.
-- 💻 Intrested in Apllication Development, Cyber Security and Block Chain Development
-- ⚡ Always open to learn and explore technologies. 
+- 📫 A positive attitude which can really make dreams come true – it did for me. I have a dream that I can’t let go of, trust my instincts and pursue it.
+- 💻 Interested in Application Development, Cyber Security and Block Chain Development
+- ⚡ Always open to learning and exploring technologies. 
 
 <!-- ## Connect with me : -->
 
